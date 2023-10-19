@@ -186,6 +186,7 @@
     align-items: start;
     padding: 80px 15px;
     transition: .3s ease 0s;
+    z-index: 10000;
 
   }
 
