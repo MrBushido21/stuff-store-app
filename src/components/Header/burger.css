@@ -26,6 +26,7 @@
       display: flex !important;
       flex-direction: column;
       cursor: pointer;
+      z-index: 10000;
     }
   }
 
