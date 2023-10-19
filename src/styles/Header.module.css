@@ -188,6 +188,10 @@
     transition: .3s ease 0s;
 
   }
+
+  .info.active {
+    left: 0;
+  }
   
   .form {
     position: absolute;

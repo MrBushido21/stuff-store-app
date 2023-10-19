@@ -62,7 +62,7 @@ export const Header = () => {
         </Link>
       </div>
 
-      <div className={menu ? styles.info + " active" : styles.info }>
+      <div className={menu ? styles.info + " " + styles.active : styles.info }>
         <div className={styles.user} onClick={handleClick}>
           <div
             className={styles.avatar}
